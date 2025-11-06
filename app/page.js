@@ -1,4 +1,4 @@
-import DentalContentGenerator from '@/components/DentalContentGenerator'
+import DentalContentGenerator from "../components/DentalContentGenerator";
 
 export default function Home() {
   return <DentalContentGenerator />
